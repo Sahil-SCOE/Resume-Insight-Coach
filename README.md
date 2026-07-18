@@ -43,12 +43,12 @@ This gives you a clean flow of:
 ### Dashboard overview
 
 ![Dashbord ](outputs/dashboard1.png)
-![categories distribution](outputs/category_distribution.png)
+![categories distribution](outputs/category_distribution.jpg)
 
 This output shows the distribution of resumes across the 10 categories. It helps you understand whether the dataset is balanced and whether the model is being trained on a fair representation of all job types.
 
 ### Model evaluation snapshot
- ![Model dashboard](outputs/Output1.png)
+ ![Model dashboard](outputs/Output1.jpg)
 
 ![Confusion matrix](outputs/confusion_matrix.png)
 
