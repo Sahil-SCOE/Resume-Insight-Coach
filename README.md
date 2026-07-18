@@ -1,4 +1,4 @@
-# 📄 Intelligent Resume Analyzer & Job Matcher
+# 📄 Resume Insight Coach
 
 This project is a beginner-friendly AI resume analysis system that combines:
 - a local machine learning classifier for category prediction
